@@ -1,0 +1,6 @@
+
+10)using ternary operters
+
+ $n=54;
+
+ echo ($n%2==0)?"Even Number":"Odd number";
