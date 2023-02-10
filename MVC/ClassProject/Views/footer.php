@@ -1,5 +1,5 @@
-<section class="w3l-footer-29-main">
-    <div class="footer-29">
+<div class="footer-29">
+      <section class="w3l-footer-29-main">
         <div class="container">
             <div class="d-grid grid-col-4 footer-top-29">
                 <div class="footer-list-29 footer-1">
